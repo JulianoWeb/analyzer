@@ -40,3 +40,6 @@ resultado_example.com.txt
 * Requests
 * Socket
 * Colorama
+
+
+
